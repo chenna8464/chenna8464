@@ -4,7 +4,7 @@
 
 I am a frontend developer who loves Flutter! 🚀🚀
 * 👨 I'm currently working as a Software Engineer at a US-based Fintech Company.
-* 👨🏻‍💻 I develop dynamic mobile applications using Flutter, and I have knowledge of programming languages such as Dart, Java, JavaScript (beginner level). 
+* 👨🏻‍💻 I develop dynamic mobile applications using Flutter, and I know programming languages such as Dart, Java (beginner level), JavaScript (beginner level). 
 * 📖 I'm currently learning Flutter, Golang, Data Structures and Algorithms.
 * 🏋️ Always open to contributing or collaborating on interesting projects.
 * 📭 My email is always open - chennadvp7799@gmail.com.
